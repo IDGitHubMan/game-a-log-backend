@@ -1,0 +1,14 @@
+{
+  "name": "game-a-log-backend",
+  "version": "1.0.0",
+  "description": "Game-A-Log backend repo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
